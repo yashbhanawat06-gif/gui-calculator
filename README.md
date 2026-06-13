@@ -18,3 +18,5 @@ HOW TO RUN?
   Run: python calculator.py
   
 OR YOU CAN DIRECTLY COPY THE CODE AND PASTE IT IN VS CODE AS WELL
+
+I have also provided the .zip file of the project, you can also download it from there
