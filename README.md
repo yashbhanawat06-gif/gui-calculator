@@ -1,16 +1,17 @@
-This project is basically build for performing arithmetic operations like addition, subtraction, etc.
-It is built using Python and Tkinter library.
+🧮 GUI Calculator (Python Tkinter)
 
-FEATURES:
-  Addition,
-  Subtraction,
-  Multiplication,
-  Division,
-  Square of a number,
-  Percentage,
-  Backspace,
-  Clear All,
-  Decimal,
+A simple and user-friendly calculator built using Python and Tkinter. It performs basic arithmetic operations with an interactive graphical interface.
+
+🚀 Features
+Clean and responsive GUI
+Supports basic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+Real-time input display
+Clear (C) button to reset calculations
+Error handling for invalid inputs
+
+🛠️ Tech Stack
+Python
+Tkinter (built-in GUI library)
 
 HOW TO RUN?
   Download the project>
