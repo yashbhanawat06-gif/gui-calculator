@@ -28,7 +28,7 @@ It performs basic arithmetic operations with an interactive graphical interface.
 - Download the project
 - Open terminal in the folder
 - Run: python calculator.py
-  
+##
 Or you can directly copy the code, and paste it in the VS Code
 
 I have also provided the .zip file of the project, you can also download it from there
