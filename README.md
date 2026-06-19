@@ -22,12 +22,13 @@ It performs basic arithmetic operations with an interactive graphical interface.
 - Python  
 - Tkinter (built-in GUI library)  
 
+---
 
-HOW TO RUN?
-  Download the project>
-  Open terminal in the folder>
-  Run: python calculator.py
+## HOW TO RUN?
+- Download the project
+- Open terminal in the folder
+- Run: python calculator.py
   
-OR YOU CAN DIRECTLY COPY THE CODE AND PASTE IT IN VS CODE AS WELL
+Or you can directly copy the code, and paste it in the VS Code
 
 I have also provided the .zip file of the project, you can also download it from there
