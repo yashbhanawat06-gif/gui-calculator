@@ -1,17 +1,27 @@
-🧮 GUI Calculator (Python Tkinter)
+# 🧮 GUI Calculator (Python Tkinter)
 
-A simple and user-friendly calculator built using Python and Tkinter. It performs basic arithmetic operations with an interactive graphical interface.
+A simple and user-friendly calculator built using Python and Tkinter.  
+It performs basic arithmetic operations with an interactive graphical interface.
 
-🚀 Features
-Clean and responsive GUI
-Supports basic operations: ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
-Real-time input display
-Clear (C) button to reset calculations
-Error handling for invalid inputs
+---
 
-🛠️ Tech Stack
-Python
-Tkinter (built-in GUI library)
+## 🚀 Features
+- Clean and responsive GUI  
+- Supports basic operations:  
+  - ➕ Addition  
+  - ➖ Subtraction  
+  - ✖️ Multiplication  
+  - ➗ Division  
+- Real-time input display  
+- Clear (C) button to reset calculations  
+- Error handling for invalid inputs  
+
+---
+
+## 🛠️ Tech Stack
+- Python  
+- Tkinter (built-in GUI library)  
+
 
 HOW TO RUN?
   Download the project>
